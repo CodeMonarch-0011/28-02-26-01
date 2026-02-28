@@ -1,5 +1,5 @@
 import "../../styles/home.css";
-import image from "/images/1764353652186.webp";
+import image from "/images/pngtree-johnny-depp-s-new-single-the-rain-image_2574854.jpg";
 
 export function Philosophy() {
   return (
